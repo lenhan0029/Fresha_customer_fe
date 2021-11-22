@@ -1,0 +1,1 @@
+folder này chứa component liên kết với redux
